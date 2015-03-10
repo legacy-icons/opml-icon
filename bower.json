@@ -1,0 +1,30 @@
+{
+  "name": "opml-icon",
+  "version": "0.1.0",
+  "homepage": "https://github.com/T1st3/opml-icon",
+  "description": "OPML-Icon",
+  "keywords": [
+    "icon",
+    "opml"
+  ],
+  "license": "MIT",
+  "authors": [
+    "t1st3 <contact@tiste.org> (http://www.tiste.org/)"
+  ],
+  "main": [
+    "./img"
+  ],
+  "ignore": [
+    "bower_components",
+    ".bowerrc",
+    "node_modules",
+    "package.json",
+    "composer.json",
+    "composer.lock",
+    ".git",
+    ".gitignore",
+    ".gitattributes",
+    "README.md"
+  ],
+  "dependencies": {}
+}
