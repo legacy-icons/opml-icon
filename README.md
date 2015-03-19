@@ -72,3 +72,12 @@ bower install open-share-icon
 **Composer / Packagist**
 
 [open-share-icon on Packagist](https://packagist.org/packages/t1st3/open-share-icon)
+
+
+
+
+Dev dependencies (NPM)
+----------
+
+
+[![Dependency Status](https://img.shields.io/david/dev/T1st3/opml-icon.svg)](https://david-dm.org/t1st3/opml-icon)
