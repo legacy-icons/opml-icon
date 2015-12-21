@@ -5,7 +5,7 @@ opml-icon
 [![NPM version](https://img.shields.io/npm/v/opml-icon.svg)](https://www.npmjs.org/package/opml-icon)
 [![Bower version](https://img.shields.io/bower/v/opml-icon.svg)](http://bower.io/search/?q=opml-icon)
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/opml-icon.svg)](https://packagist.org/packages/t1st3/opml-icon)
-
+[![Nuget version](https://img.shields.io/nuget/v/opml-icon.svg)](https://www.nuget.org/packages/opml-icon/)
 
 About
 ----------
