@@ -75,6 +75,14 @@ bower install opml-icon
 
 
 
+**NuGet**
+
+Get it with:
+
+```
+Install-Package opml-icon
+```
+
 
 Dev dependencies and build status
 ----------
