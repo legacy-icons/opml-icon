@@ -27,7 +27,8 @@
     "README.md",
     ".editorconfig",
     ".travis.yml",
-    ".npmignore"
+    ".npmignore",
+    "nuget"
   ],
   "dependencies": {}
 }

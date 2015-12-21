@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>opml-icon</id>
+    <version>0.1</version>
+    <title>OPML-Icon</title>
+    <authors>T1st3</authors>
+    <owners>t1st3</owners>
+    <description>OPML-Icon</description>
+    <releaseNotes>https://github.com/T1st3/opml-icon/releases</releaseNotes>
+    <summary>OPML-Icon</summary>
+    <language>en-us</language>
+    <projectUrl>https://github.com/T1st3/opml-icon</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/T1st3/opml-icon/master/png/opml-icon-64x64.png</iconUrl>
+    <licenseUrl>https://github.com/T1st3/opml-icon/blob/master/LICENSE</licenseUrl>
+    <copyright>Copyright 2015</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+    </dependencies>
+    <tags>opml icon</tags>
+  </metadata>
+  <files>
+    <file src="png\*.*" target="content\Content" />
+  </files>
+</package>
