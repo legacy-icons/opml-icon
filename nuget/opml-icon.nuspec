@@ -12,12 +12,12 @@
     <language>en-us</language>
     <projectUrl>https://github.com/T1st3/opml-icon</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/T1st3/opml-icon/master/png/opml-icon-64x64.png</iconUrl>
-    <licenseUrl>https://github.com/T1st3/opml-icon/blob/master/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/T1st3/opml-icon#original-readme-from-author-of-the-icons</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
     </dependencies>
-    <tags>opml icon</tags>
+    <tags>opml icon png</tags>
   </metadata>
   <files>
     <file src="png\*.*" target="content\Content" />
