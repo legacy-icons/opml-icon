@@ -7,6 +7,11 @@ opml-icon
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/opml-icon.svg)](https://packagist.org/packages/t1st3/opml-icon)
 [![Nuget version](https://img.shields.io/nuget/v/opml-icon.svg)](https://www.nuget.org/packages/opml-icon/)
 
+[![Dependency Status](https://img.shields.io/david/dev/T1st3/opml-icon.svg)](https://david-dm.org/t1st3/opml-icon)
+[![Build Status](https://img.shields.io/travis/T1st3/opml-icon.svg)](https://travis-ci.org/T1st3/opml-icon)
+
+
+
 About
 ----------
 
@@ -19,6 +24,7 @@ The aim of this project is to make this icon pack available through various pack
 - [NPM](https://npmjs.org)
 - [Bower](http://bower.io)
 - [Packagist](https://packagist.org)
+- [NuGet](https://www.nuget.org)
 
 
 
@@ -51,8 +57,6 @@ Get the package
 
 **NPM**
 
-[open-share-icon on NPM](https://www.npmjs.org/package/opml-icon)
-
 Get it with:
 
 ```
@@ -71,8 +75,11 @@ bower install opml-icon
 
 **Composer / Packagist**
 
-[open-share-icon on Packagist](https://packagist.org/packages/t1st3/opml-icon)
+Get it with:
 
+```
+composer require t1st3/opml-icon
+```
 
 
 **NuGet**
@@ -82,13 +89,4 @@ Get it with:
 ```
 Install-Package opml-icon
 ```
-
-
-Dev dependencies and build status
-----------
-
-[![Dependency Status](https://img.shields.io/david/dev/T1st3/opml-icon.svg)](https://david-dm.org/t1st3/opml-icon)
-[![Build Status](https://img.shields.io/travis/T1st3/opml-icon.svg)](https://travis-ci.org/T1st3/opml-icon)
-
-
 
