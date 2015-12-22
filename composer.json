@@ -22,7 +22,7 @@
   "extra": {
     "component": {
       "files": [
-        "img/*"
+        "png/*"
       ]
     }
   }
