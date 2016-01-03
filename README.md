@@ -85,4 +85,3 @@ Get it with:
 ```
 Install-Package opml-icon
 ```
-
