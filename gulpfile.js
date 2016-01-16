@@ -18,7 +18,7 @@ gulp = require('gulp');
  * INFO TASK
  */
 
-gulp.task('info', ['figlet'], function (cb) {
+gulp.task('info', [], function (cb) {
   var txt;
   console.log('\n\n');
   console.log('[' + chalk.green('NAME') + '] ' + pkg.name);
@@ -42,9 +42,7 @@ gulp.task('info', ['figlet'], function (cb) {
   console.log('\n\n');
   qrcode.generate(pkg.homepage);
   console.log('\n\n');
-  triggerNotification ('Info', 'Rendered the info...', function () {
-    displayCowsay('gulp info - DONE', cb);
-  });
+  cb();
 });
 
 gulp.task('default', ['info', 'build']);
