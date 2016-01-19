@@ -23,7 +23,6 @@
   "devDependencies": {
     "chalk": "~1.1",
     "gulp": "~3.9",
-    "gulp-imagemin": "~2.4.0",
     "qrcode-terminal": "~0.10",
     "somebody": "~2.0"
   }
