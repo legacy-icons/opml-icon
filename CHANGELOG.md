@@ -1,6 +1,10 @@
 ## Change Log
 
-### upcoming (2015/12/31 14:40 +00:00)
+### 0.1.9 (2016/01/19 10:34 +00:00)
+- [3a03389](https://github.com/T1st3/opml-icon/commit/3a03389570e06ec284fb3d4177ae8c01e9b74c87) chore: remove figlets, cowsays and notifications (@T1st3)
+- [cc3765a](https://github.com/T1st3/opml-icon/commit/cc3765a21c8a7174f73c75f1246e67f5ba98f51c) chore: remove figlets, cowsays and notifications (@T1st3)
+- [bfb869b](https://github.com/T1st3/opml-icon/commit/bfb869bbf74283fb8a40a4d079b8468f99c057fb) chore: add newline at end of config and .md files (@T1st3)
+- [e91e968](https://github.com/T1st3/opml-icon/commit/e91e968e9bb7a474bd92c7af5101d4cef9a539dd) docs: add CHANGELOG.md (@T1st3)
 - [#2](https://github.com/t1st3/opml-icon/pull/2) chore(package): update gulp-minify-css to version 1.2.3 (@T1st3)
 - [5493cad](https://github.com/T1st3/opml-icon/commit/5493cad6e7de3d1d0fc0cde201e581d2ef86f069) chore(package): update gulp-minify-css to version 1.2.3 (@greenkeeperio-bot)
 
