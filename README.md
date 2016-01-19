@@ -7,10 +7,6 @@ opml-icon
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/opml-icon.svg)](https://packagist.org/packages/t1st3/opml-icon)
 [![Nuget version](https://img.shields.io/nuget/v/opml-icon.svg)](https://www.nuget.org/packages/opml-icon/)
 
-[![Dependency Status](https://img.shields.io/david/dev/T1st3/opml-icon.svg)](https://david-dm.org/t1st3/opml-icon)
-[![Build Status](https://img.shields.io/travis/T1st3/opml-icon.svg)](https://travis-ci.org/T1st3/opml-icon)
-
-
 
 About
 ----------
