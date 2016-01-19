@@ -6,7 +6,6 @@ fs = require('fs'),
 path = require('path'),
 
 chalk = require('chalk'),
-del = require('del'),
 somebody = require('somebody'),
 pkgAuthor = somebody.parse(pkg.author),
 
