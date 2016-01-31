@@ -1,6 +1,6 @@
 {
   "name": "t1st3/opml-icon",
-  "homepage": "https://github.com/T1st3/opml-icon",
+  "homepage": "https://github.com/t1st3/opml-icon",
   "description": "OPML-Icon",
   "keywords": [
     "icon",
@@ -9,14 +9,14 @@
   "license": "CC-BY-SA-3.0",
     "authors": [
     {
-      "name": "T1st3",
+      "name": "t1st3",
       "email": "contact@tiste.org",
       "homepage": "http://www.tiste.org/",
       "role": "Maintainer"
     }
   ],
   "support": {
-    "issues": "https://github.com/T1st3/opml-icon/issues/"
+    "issues": "https://github.com/t1st3/opml-icon/issues/"
   },
   "type": "library",
   "extra": {

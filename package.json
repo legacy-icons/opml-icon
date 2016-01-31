@@ -1,7 +1,7 @@
 {
   "name": "opml-icon",
   "version": "0.1.9",
-  "homepage": "https://github.com/T1st3/opml-icon",
+  "homepage": "https://github.com/t1st3/opml-icon",
   "description": "OPML-Icon",
   "keywords": [
     "icon",
@@ -11,10 +11,10 @@
   "author": "t1st3 <contact@tiste.org> (http://www.tiste.org/)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/T1st3/opml-icon.git"
+    "url": "git://github.com/t1st3/opml-icon.git"
   },
   "bugs": {
-    "url": "https://github.com/T1st3/opml/issues"
+    "url": "https://github.com/t1st3/opml/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
