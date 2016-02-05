@@ -1,6 +1,5 @@
-opml-icon
-===============
 
+# opml-icon
 
 [![NPM version](https://img.shields.io/npm/v/opml-icon.svg)](https://www.npmjs.org/package/opml-icon)
 [![Bower version](https://img.shields.io/bower/v/opml-icon.svg)](http://bower.io/search/?q=opml-icon)
@@ -8,8 +7,7 @@ opml-icon
 [![Nuget version](https://img.shields.io/nuget/v/opml-icon.svg)](https://www.nuget.org/packages/opml-icon/)
 
 
-About
-----------
+## About
 
 The OPML-Icon, as available on [OPML-Icon website](http://opmlicons.com/).
 
@@ -23,55 +21,28 @@ The aim of this project is to make this icon pack available through various pack
 - [NuGet](https://www.nuget.org)
 
 
-Original readme (from author of the icons)
-----------
+## Install
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+### Get the package with NPM
 
-
-About the rest (all this repository but the icons)
-----------
-
-All the content of this repository (excepted the icon pack) 
-is licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-Though, it is just composed a few trivial json files and a Readme.
+> npm install opml-icon
 
 
-Get the package
-----------
+### Get the package with Bower
 
-**NPM**
-
-Get it with:
-
-```
-npm install opml-icon
-```
+> bower install opml-icon
 
 
-**Bower**
+### Get the package with Composer / Packagist
 
-Get it with:
-
-```
-bower install opml-icon
-```
+> composer require t1st3/opml-icon
 
 
-**Composer / Packagist**
+### Get the package with NuGet
 
-Get it with:
-
-```
-composer require t1st3/opml-icon
-```
+> Install-Package opml-icon
 
 
-**NuGet**
+## License
 
-Get it with:
-
-```
-Install-Package opml-icon
-```
+See [License](https://github.com/t1st3/opml-icon/blob/master/LICENSE.md)
