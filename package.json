@@ -22,7 +22,7 @@
   "dependencies": {},
   "devDependencies": {
     "chalk": "^1.1.1",
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "qrcode-terminal": "^0.10.0",
     "somebody": "^2.0.0"
   }
