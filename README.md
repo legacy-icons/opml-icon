@@ -3,7 +3,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/opml-icon.svg)](https://www.npmjs.org/package/opml-icon)
 [![Bower version](https://img.shields.io/bower/v/opml-icon.svg)](http://bower.io/search/?q=opml-icon)
-[![Packagist version](https://img.shields.io/packagist/v/t1st3/opml-icon.svg)](https://packagist.org/packages/t1st3/opml-icon)
+[![Packagist version](https://img.shields.io/packagist/v/legacy-icons/opml-icon.svg)](https://packagist.org/packages/legacy-icons/opml-icon)
 [![Nuget version](https://img.shields.io/nuget/v/opml-icon.svg)](https://www.nuget.org/packages/opml-icon/)
 
 
@@ -35,7 +35,7 @@ The aim of this project is to make this icon pack available through various pack
 
 ### Get the package with Composer / Packagist
 
-> composer require t1st3/opml-icon
+> composer require legacy-icons/opml-icon
 
 
 ### Get the package with NuGet
@@ -45,4 +45,4 @@ The aim of this project is to make this icon pack available through various pack
 
 ## License
 
-See [License](https://github.com/t1st3/opml-icon/blob/master/LICENSE.md)
+See [License](https://github.com/legacy-icons/opml-icon/blob/master/LICENSE.md)

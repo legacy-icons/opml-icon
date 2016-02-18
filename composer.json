@@ -1,6 +1,6 @@
 {
-  "name": "t1st3/opml-icon",
-  "homepage": "https://github.com/t1st3/opml-icon",
+  "name": "legacy-icons/opml-icon",
+  "homepage": "https://github.com/legacy-icons/opml-icon",
   "description": "OPML-Icon",
   "keywords": [
     "icon",
@@ -16,7 +16,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/t1st3/opml-icon/issues/"
+    "issues": "https://github.com/legacy-icons/opml-icon/issues/"
   },
   "type": "library",
   "extra": {

@@ -7,12 +7,12 @@
     <authors>t1st3</authors>
     <owners>t1st3</owners>
     <description>OPML-Icon, made available in various package managers</description>
-    <releaseNotes>https://github.com/t1st3/opml-icon/releases</releaseNotes>
+    <releaseNotes>https://github.com/legacy-icons/opml-icon/releases</releaseNotes>
     <summary>OPML-Icon</summary>
     <language>en-us</language>
-    <projectUrl>https://github.com/t1st3/opml-icon</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/t1st3/opml-icon/master/png/opml-icon-64x64.png</iconUrl>
-    <licenseUrl>https://github.com/t1st3/opml-icon#original-readme-from-author-of-the-icons</licenseUrl>
+    <projectUrl>https://github.com/legacy-icons/opml-icon</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/legacy-icons/opml-icon/master/png/opml-icon-64x64.png</iconUrl>
+    <licenseUrl>https://github.com/legacy-icons/opml-icon#original-readme-from-author-of-the-icons</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
