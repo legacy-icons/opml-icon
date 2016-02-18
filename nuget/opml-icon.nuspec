@@ -12,7 +12,7 @@
     <language>en-us</language>
     <projectUrl>https://github.com/legacy-icons/opml-icon</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/legacy-icons/opml-icon/master/png/opml-icon-64x64.png</iconUrl>
-    <licenseUrl>https://github.com/legacy-icons/opml-icon#original-readme-from-author-of-the-icons</licenseUrl>
+    <licenseUrl>https://github.com/legacy-icons/opml-icon.blob/master/LICENSE.md</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
