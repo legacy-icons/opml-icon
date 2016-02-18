@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>opml-icon</id>
-    <version>0.1</version>
+    <version>1.0</version>
     <title>OPML-Icon</title>
     <authors>t1st3</authors>
     <owners>t1st3</owners>

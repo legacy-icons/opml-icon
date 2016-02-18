@@ -1,6 +1,7 @@
 ## Change Log
 
 ### 0.1.10 (2016/02/15 09:49 +00:00)
+- [74216f3](https://github.com/legacy-icons/opml-icon/commit/74216f3367b97fcd0e97ee3204df9d65a42e2b19) chore: v0.1.10 (@t1st3)
 - [#3](https://github.com/legacy-icons/opml-icon/pull/3) chore(package): update gulp to version 3.9.1 (@t1st3)
 - [5765626](https://github.com/legacy-icons/opml-icon/commit/5765626f4a01d1839778eba7d0cb84b0e18ffee1) chore(package): update gulp to version 3.9.1 (@greenkeeperio-bot)
 - [73c2a04](https://github.com/legacy-icons/opml-icon/commit/73c2a0416052de2cb43eaf28883d2dfe1a3dcdb7) docs: update README structure (@t1st3)
