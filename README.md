@@ -13,6 +13,8 @@ The OPML-Icon, as available on [OPML-Icon website](http://opmlicons.com/).
 
 All credits for these icons go to their original author: [Ken Rossi](http://www.krossi.com/) and all the project contributors.
 
+This is the `OPML-Icon`: ![OPML-Icon](https://github.com/legacy-icons/opml-icon/blob/master/png/opml-icon-64x64.png)
+
 The aim of this project is to make this icon pack available through various package managers, such as:
 
 - [NPM](https://npmjs.org)
